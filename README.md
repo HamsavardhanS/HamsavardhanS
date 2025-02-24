@@ -1,7 +1,7 @@
 ## Hi there I am Hamsavardhan👋
-## A pasinated person with lot of dreams
-## Love to Code, Debug, Create and Visualize Something
-## Pioneer | Enthusiasist | Learner
+# A pasinated person with lot of dreams
+# Love to Code, Debug, Create and Visualize Something
+# Pioneer | Enthusiasist | Learner
 
 <!--
 **HamsavardhanS/HamsavardhanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

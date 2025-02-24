@@ -1,4 +1,4 @@
-## Hi there I am Hamsavardhan👋
+## Hi there This is Hamsavardhan👋 
 <!--# A pasinated person with lot of dreams
 # Love to Code, Debug, Create and Visualize Something
 # Pioneer | Enthusiasist | Learner

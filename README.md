@@ -5,12 +5,26 @@
 
 ---
 
+### 🧑‍🎓 Academic Journey
+
+- 🎓 Pursuing B.E in Computer Science Engineering  
+- 🧠 Deep interest in full-stack development and real-world problem solving  
+- 📚 Always upskilling through hands-on projects and learning new tech
+
+---
+
+### 📄 Resume
+
+📌 [View My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1STRu8XYZUzE6Uxh2OwDygT7LTLtqdzRV/view?usp=sharing)) <!-- Replace this link with your actual resume -->
+
+---
+
 ### 🧑‍💻 About Me
 
-- 💻 I love turning ideas into real-world apps
-- 🎯 Focused on building full-stack applications with clean architecture
-- 🧠 Always curious, always learning
-- 🧩 Also a poet and a writer in my free time ✍️
+- 💻 I love turning ideas into real-world applications  
+- 🎯 Focused on building full-stack systems with clean, modular architecture  
+- ✨ Passionate about UI/UX and crafting smooth user experiences  
+- ✍️ I’m also a poet and writer—tech meets art in my world
 
 ---
 
@@ -42,23 +56,33 @@
 
 ### 🧩 Projects That Define Me
 
-- 🔧 **Restaurant Management System**  
-  A full-fledged app using React, with role-based login as a simple Front-end.
+- 🍽️ **Restaurant Management System**  
+  A role-based web app using React frontend and Spring Boot backend. Users can order, admins manage inventory and payments.
 
 - 🏡 **Personalized Home Improvement Platform**  
-  Helping users manage home events & vendors smartly – a beautiful blend of backend logic interactivity.
+  A smart event management platform connecting users with vendors to organize home improvement events efficiently.
 
-- 🚦 **Traffic Jam Detection App**  
-  Real-time traffic insights using GPS and Google Maps API built with React Native, Node.js & MongoDB (->ongoing<-).
+- 🚦 **Traffic Jam Detection App** *(ongoing)*  
+  Real-time traffic insight app using GPS & Google Maps API. Built with React Native, Node.js, and MongoDB.
 
 ---
 
-### 🎯 My Interests
+### 💡 My Interests
 
 - 📚 Full Stack Development  
-- 🤖 Building scalable REST APIs  
-- 💡 Creative UI/UX & Web Animations  
-- 🌐 Event Platforms, Smart Services, Community Apps
+- 🔗 REST APIs & Microservices  
+- 🎨 UI/UX & Animations  
+- 🌍 Community Platforms, Real-time Apps, Event Systems
+
+---
+
+### 🎉 Fun Facts About Me
+
+- 🧁 My creativity flows into both code and poems  
+- 🤓 I'm an introvert—but the right code or convo brings me out  
+- 🧩 I love solving puzzles—logic and life both  
+- 🌈 I think aesthetic UIs are just as important as powerful APIs
+- 😁 I consider myself as movie characters accorrding to the situvation (for fun)!!
 
 ---
 

@@ -13,12 +13,6 @@
 
 ---
 
-### 📄 Resume
-
-📌 [View My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1STRu8XYZUzE6Uxh2OwDygT7LTLtqdzRV/view?usp=sharing)) <!-- Replace this link with your actual resume -->
-
----
-
 ### 🧑‍💻 About Me
 
 - 💻 I love turning ideas into real-world applications  

@@ -1,5 +1,5 @@
 ## Hi there This is Hamsavardhan👋 
-<!--# A pasinated person with lot of dreams
+# A pasinated person with lot of dreams
 # Love to Code, Debug, Create and Visualize Something
 # Pioneer | Enthusiasist | Learner
 -->
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 

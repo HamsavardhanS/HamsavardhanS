@@ -43,13 +43,13 @@
 ### 🧩 Projects That Define Me
 
 - 🔧 **Restaurant Management System**  
-  A full-fledged app using React, Spring Boot & MySQL with role-based login and real-time features.
+  A full-fledged app using React, with role-based login as a simple Front-end.
 
 - 🏡 **Personalized Home Improvement Platform**  
-  Helping users manage home events & vendors smartly – a beautiful blend of backend logic & frontend interactivity.
+  Helping users manage home events & vendors smartly – a beautiful blend of backend logic interactivity.
 
 - 🚦 **Traffic Jam Detection App**  
-  Real-time traffic insights using GPS and Google Maps API built with React Native, Node.js & MongoDB.
+  Real-time traffic insights using GPS and Google Maps API built with React Native, Node.js & MongoDB (->ongoing<-).
 
 ---
 
@@ -64,9 +64,9 @@
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamsavardhan-s-offl/))
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://hamsavardhan.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:hamsasanker06@gmail.com)
 
 ---
 

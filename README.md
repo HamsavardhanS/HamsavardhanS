@@ -64,11 +64,11 @@
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamsavardhan-s-offl/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamsavardhan-s-offl/)
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://hamsavardhan.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:hamsasanker06@gmail.com)
 
 ---
 
 <p align="center">💖 Thanks for stopping by!</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="profile views"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=HamsavardhanS&style=flat-square&color=blue" alt="profile views"/></p>
